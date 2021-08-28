@@ -1,0 +1,6 @@
+.snowpack
+.DS_Store
+temp
+node_modules
+yarn-error.log
+build
